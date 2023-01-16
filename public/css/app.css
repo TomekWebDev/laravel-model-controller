@@ -4,3 +4,8 @@
     color: red;
 }
 
+.card {
+    width: calc(90%/4);
+    padding: 10px;
+}
+
